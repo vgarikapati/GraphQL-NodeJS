@@ -1,0 +1,6 @@
+
+npm install express express-graphql nodemon graphql json-server axios --save
+
+npm run dev:server
+npm run json:server
+
